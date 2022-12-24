@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-# Charcuterie Theory
+# About
 
 blah blah blah short summary
